@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ReactApp/static/css/main.45b67d9a.chunk.css",
-    "main.js": "/ReactApp/static/js/main.b1ea752f.chunk.js",
-    "main.js.map": "/ReactApp/static/js/main.b1ea752f.chunk.js.map",
-    "runtime-main.js": "/ReactApp/static/js/runtime-main.d0efa6d7.js",
-    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.d0efa6d7.js.map",
+    "main.css": "/ReactApp/static/css/main.35825b1d.chunk.css",
+    "main.js": "/ReactApp/static/js/main.9205c53d.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.9205c53d.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.f36ff5c0.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.f36ff5c0.js.map",
     "static/css/2.9a5322c9.chunk.css": "/ReactApp/static/css/2.9a5322c9.chunk.css",
-    "static/js/2.cdae4e35.chunk.js": "/ReactApp/static/js/2.cdae4e35.chunk.js",
-    "static/js/2.cdae4e35.chunk.js.map": "/ReactApp/static/js/2.cdae4e35.chunk.js.map",
-    "static/js/3.b6026dbb.chunk.js": "/ReactApp/static/js/3.b6026dbb.chunk.js",
-    "static/js/3.b6026dbb.chunk.js.map": "/ReactApp/static/js/3.b6026dbb.chunk.js.map",
+    "static/js/2.84f57901.chunk.js": "/ReactApp/static/js/2.84f57901.chunk.js",
+    "static/js/2.84f57901.chunk.js.map": "/ReactApp/static/js/2.84f57901.chunk.js.map",
+    "static/js/3.ab8521dc.chunk.js": "/ReactApp/static/js/3.ab8521dc.chunk.js",
+    "static/js/3.ab8521dc.chunk.js.map": "/ReactApp/static/js/3.ab8521dc.chunk.js.map",
     "index.html": "/ReactApp/index.html",
     "static/css/2.9a5322c9.chunk.css.map": "/ReactApp/static/css/2.9a5322c9.chunk.css.map",
-    "static/css/main.45b67d9a.chunk.css.map": "/ReactApp/static/css/main.45b67d9a.chunk.css.map",
-    "static/js/2.cdae4e35.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.cdae4e35.chunk.js.LICENSE.txt",
+    "static/css/main.35825b1d.chunk.css.map": "/ReactApp/static/css/main.35825b1d.chunk.css.map",
+    "static/js/2.84f57901.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.84f57901.chunk.js.LICENSE.txt",
     "static/media/batman.779cb521.gif": "/ReactApp/static/media/batman.779cb521.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0efa6d7.js",
+    "static/js/runtime-main.f36ff5c0.js",
     "static/css/2.9a5322c9.chunk.css",
-    "static/js/2.cdae4e35.chunk.js",
-    "static/css/main.45b67d9a.chunk.css",
-    "static/js/main.b1ea752f.chunk.js"
+    "static/js/2.84f57901.chunk.js",
+    "static/css/main.35825b1d.chunk.css",
+    "static/js/main.9205c53d.chunk.js"
   ]
 }
